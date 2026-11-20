@@ -4,7 +4,7 @@ auth-request allows you to add access control to your HTTP services based on a
 subrequest to a configured HAProxy backend. The workings of this Lua script are
 loosely based on the [ngx_http_auth_request_module] module for nginx.
 
-## Requirements
+## Requirementss
 
 - HAProxy 1.8.4+ (2.2.0+ recommended)
   - Only the latest version of each HAProxy branch is supported.
